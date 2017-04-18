@@ -30,3 +30,4 @@ Also project shows simplified clean architecture of android app with usage:
 <img width='300' hspace='20' src='https://drive.google.com/uc?id=0B3hs6EXn55WULUVUOGliSU9UZUk' />
 
 * Inspired by OK Expenses https://itunes.apple.com/us/app/expenses-ok-excellent-expense/id932322041
+* Comment
